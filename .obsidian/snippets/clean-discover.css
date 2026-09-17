@@ -1,0 +1,32 @@
+:root {
+  --clean-teal: #3f8388;
+  --clean-teal-dark: #244f53;
+  --clean-cream: #f4efe3;
+  --clean-coral: #bd6f48;
+}
+
+.theme-light {
+  --background-primary: #f7faf8;
+  --background-secondary: #edf3f1;
+  --interactive-accent: var(--clean-teal);
+  --text-accent: var(--clean-teal-dark);
+  --blockquote-border-color: var(--clean-coral);
+}
+
+.markdown-rendered h1,
+.markdown-rendered h2 {
+  color: var(--clean-teal-dark);
+  letter-spacing: -0.02em;
+}
+
+.markdown-rendered blockquote {
+  border-radius: 0 12px 12px 0;
+  background: rgba(63, 131, 136, 0.08);
+}
+
+.markdown-rendered iframe {
+  min-height: 760px;
+  border: 1px solid rgba(36, 79, 83, 0.18);
+  border-radius: 20px;
+  box-shadow: 0 18px 48px rgba(36, 79, 83, 0.16);
+}

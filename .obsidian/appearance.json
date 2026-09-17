@@ -1,0 +1,9 @@
+{
+  "accentColor": "#3f8388",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "clean-discover"
+  ],
+  "interfaceFontFamily": "Inter, PingFang SC, sans-serif",
+  "textFontFamily": "Source Serif 4, Noto Serif SC, serif"
+}

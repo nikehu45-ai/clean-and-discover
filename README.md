@@ -4,6 +4,12 @@
 
 [在线试玩](https://nikehu45-ai.github.io/clean-and-discover/)
 
+## Obsidian 项目库
+
+本仓库已经配置为 Obsidian Vault。用 Obsidian 打开仓库根目录，然后从
+[`00-项目主页.md`](./00-项目主页.md) 开始浏览。Git 同步设置见
+[`docs/09-Git同步.md`](./docs/09-Git同步.md)。
+
 ## 当前可玩内容
 
 - 5 个完整订单：旧地毯、白色跑鞋、布艺沙发、天窗和大型地毯 Boss
